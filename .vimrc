@@ -29,7 +29,8 @@ set cuc cul
 hi CursorColumn ctermbg=17
 hi CursorLine cterm=none ctermbg=17
 if has("gui_running")
-  colorscheme desert
+  colorscheme torte
+  set transparency=15
 endif
 
 " usability
