@@ -55,4 +55,4 @@ set wildmode=list:longest "set wildmenu to list choice
 autocmd BufEnter * silent! lcd %:p:h              " set working dir to current file
 nmap <leader>r :doautocmd Syntax<CR> " reload syntax
 nmap <leader>j <C-d>
-nmap <leader>k <C-u>
+nmap <leader>h <C-u>
