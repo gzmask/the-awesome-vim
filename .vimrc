@@ -23,6 +23,7 @@ Bundle 'FuzzyFinder'
 Bundle 'git://git.wincent.com/command-t.git' 
 
 filetype plugin indent on     " required!
+au BufNewFile,BufRead *.ls set filetype=lisp
 
 " colorscheme
 set cuc cul
