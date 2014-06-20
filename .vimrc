@@ -13,6 +13,7 @@ Bundle 'gmarik/vundle'
 Bundle 'guns/vim-clojure-static'
 Bundle 'amdt/vim-niji'
 Bundle 'tpope/vim-fireplace'
+Bundle 'tpope/vim-fugitive.git'
 " original repos on github
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
