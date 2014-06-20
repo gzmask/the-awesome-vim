@@ -11,6 +11,7 @@ Bundle 'gmarik/vundle'
 
 " My Bundles here:
 Bundle 'guns/vim-clojure-static'
+Bundle 'amdt/vim-niji'
 Bundle 'tpope/vim-fireplace'
 " original repos on github
 Bundle 'Lokaltog/vim-easymotion'
