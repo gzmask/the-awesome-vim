@@ -58,5 +58,7 @@ set wildmenu  " :e <Tab> wildmenu
 set wildmode=list:longest "set wildmenu to list choice
 autocmd BufEnter * silent! lcd %:p:h              " set working dir to current file
 nmap <leader>r :doautocmd Syntax<CR> " reload syntax
-nmap <leader>j <C-d>
-nmap <leader>h <C-u>
+nmap <leader>j <C-w>j
+nmap <leader>h <C-w>h
+nmap <leader>l <C-w>l
+nmap <leader>k <C-w>k
