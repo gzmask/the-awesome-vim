@@ -12,17 +12,18 @@ Bundle 'gmarik/vundle'
 " My Bundles here:
 Bundle 'guns/vim-clojure-static'
 Bundle 'amdt/vim-niji'
+Bundle 'scrooloose/nerdtree'
+Bundle 'vim-scripts/paredit.vim'
+Bundle 'tpope/vim-classpath'
+Bundle 'tpope/vim-leiningen'
+Bundle 'tpope/vim-projectionist'
+Bundle 'tpope/vim-dispatch'
 Bundle 'tpope/vim-fireplace'
-Bundle 'tpope/vim-fugitive.git'
 " original repos on github
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 " vim-scripts repos
 Bundle 'L9'
-Bundle 'FuzzyFinder'
-" non github repos
-" rake make in bundle/command-t
-Bundle 'git://git.wincent.com/command-t.git' 
 
 filetype plugin indent on     " required!
 au BufNewFile,BufRead *.ls set filetype=lisp
