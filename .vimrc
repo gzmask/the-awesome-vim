@@ -14,16 +14,9 @@ Bundle 'guns/vim-clojure-static'
 Bundle 'amdt/vim-niji'
 Bundle 'scrooloose/nerdtree'
 Bundle 'vim-scripts/paredit.vim'
-Bundle 'tpope/vim-classpath'
-Bundle 'tpope/vim-leiningen'
-Bundle 'tpope/vim-projectionist'
-Bundle 'tpope/vim-dispatch'
 Bundle 'tpope/vim-fireplace'
 " original repos on github
-Bundle 'Lokaltog/vim-easymotion'
-Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 " vim-scripts repos
-Bundle 'L9'
 
 filetype plugin indent on     " required!
 au BufNewFile,BufRead *.ls set filetype=lisp
