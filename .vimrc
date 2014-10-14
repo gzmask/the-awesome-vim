@@ -14,6 +14,7 @@ Bundle 'guns/vim-clojure-static'
 Bundle 'amdt/vim-niji'
 Bundle 'scrooloose/nerdtree'
 Bundle 'tpope/vim-fireplace'
+Bundle 'tpope/vim-surround'
 " original repos on github
 " vim-scripts repos
 
