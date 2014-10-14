@@ -13,7 +13,6 @@ Bundle 'gmarik/vundle'
 Bundle 'guns/vim-clojure-static'
 Bundle 'amdt/vim-niji'
 Bundle 'scrooloose/nerdtree'
-Bundle 'vim-scripts/paredit.vim'
 Bundle 'tpope/vim-fireplace'
 " original repos on github
 " vim-scripts repos
