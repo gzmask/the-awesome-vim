@@ -11,7 +11,7 @@ Bundle 'gmarik/vundle'
 
 " My Bundles here:
 Bundle 'guns/vim-clojure-static'
-Bundle 'amdt/vim-niji'
+Bundle 'losingkeys/vim-niji'
 Bundle 'scrooloose/nerdtree'
 Bundle 'tpope/vim-fireplace'
 Bundle 'tpope/vim-surround'
